@@ -5,7 +5,7 @@
 // PLAN:
 // Iterate until find jpeg image (bits that start with 0xff 0xd8 0xff)
 // Each time ^ is found, write into file with bytes from memory card, closing once another jpeg image is found
-// Read aT 512 bytes at a time into a buffer
+// Read at 512 bytes at a time into a buffer
 
 
 int main(int argc, char *argv[])

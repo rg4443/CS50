@@ -20,3 +20,4 @@ This repository stores all of the folders and files that I conducted from variou
 
 1. Mario-More: Creating a visual representation of mario pyramid structures using hashes and for loops.
 2. Speller: A spell checker by implementing a hash table to store a dictionary of words.
+3. Recover: A program that is able to recover deleted JPEG images from a memory card.
