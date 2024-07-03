@@ -14,7 +14,6 @@ def test_read_csv():
     (data2, list)
 
 def test_compare_and_modify_data():
-    # Your test data
     data1 = [['First Name', 'Last Name', 'Employee Email Address'],
              ['John', 'Doe', 'john.doe@email.com']]
     headers1 = data1[0]
@@ -32,7 +31,6 @@ def test_compare_and_modify_data():
 
 
 def test_write_csv():
-    # Your test data
     file_name = "output.csv"
     headers = ['GM', 'Employee Email Address']
     data = [['John Doe', 'john.doe@email.com']]
