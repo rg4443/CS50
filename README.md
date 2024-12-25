@@ -22,4 +22,4 @@ This repository stores all of the folders and files from various Harvard CS50 co
 2. Speller: A spell checker by implementing a hash table to store a dictionary of words.
 3. Recover: A program that is able to recover deleted JPEG images from a memory card.
 
-Note: Some of these implementations were from a few years back, so some solutions, and problem-sets that were on the original course aren't shown here (I haven't been able to recover/find them ): ). Additionally, some implementations were recently altered from their original for better functionality.
+Note: Some of these implementations were from a few years back, so some solutions, and problem-sets that were on the original course aren't shown here (I haven't been able to recover/find them). Additionally, some implementations were recently altered for better functionality/structure.
