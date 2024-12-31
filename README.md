@@ -1,6 +1,6 @@
 # CS50 Repository About
 
-This repository stores some of the problem-set solutions, and final projects that I came up with for the courses: CS50AI--an introductory course to Artificial Intelligence, CS50P--an introductory course to Python, and CS50C which is the first six weeks of the CS50 course that used the C programming language.
+This repository stores some of the problem-set solutions, and final projects that I came up with for the courses: CS50AI--an introductory course to Artificial Intelligence, CS50P--an introductory course to Python, and CS50C which is the first six weeks of the base CS50 course that used the C programming language.
 
 # List of Assignments
 
