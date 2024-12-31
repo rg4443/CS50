@@ -22,4 +22,4 @@ This repository stores some of the problem-set solutions, and final projects tha
 2. Speller: A spell checker that implements a hash table to store a dictionary of words.
 3. Recover: A program that is able to recover deleted JPEG images from a memory card.
 
-Note: Some of these implementations were from a few years back, so some solutions, and problem-sets that were on the original course aren't shown here (I haven't been able to recover/find them). Additionally, some implementations were altered from their original for better functionality, and structure.
+Note: Some of these implementations were from a few years back, so some solutions, and problem-sets that were on the original course aren't shown here (I haven't been able to recover/find them). Additionally, some implementations were altered from my original solution for better functionality, and structure.
