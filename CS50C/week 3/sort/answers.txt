@@ -1,12 +1,11 @@
 sort1 uses: Bubble Sort
 
-How do you know?: It is the longest on the reversed 50000.txt which means that it is actily going down
-the list and swapping numbers one at a time which is the slowest apporach to the problem
+How do you know?: It takes the longest when sorting on reversed 50000.txt which is an indication that it is going down the list and swapping numbers one at a time. Is is the slowest apporach to a problem like this.
 
 sort2 uses: Merge Sort
 
-How do you know?: It is the fastest in the random50000.txt as well as the reversed50000.txt
+How do you know?: It performs the fastest on random50000.txt and reversed50000.txt.
 
 sort3 uses: Selection Sort
 
-How do you know?: By using process of elemination Selection sort is sort 3
+How do you know?: Process of elimination.
