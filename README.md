@@ -1,6 +1,6 @@
 # CS50 Repository About
 
-This repository stores all of the folders and files from various Harvard CS50 courses. This repository stores all of the solutions I came up along with problem-sets, and final projects for the courses: CS50AI, an introductory course to Artificial Intelligence, CS50P an introductory course to Python, and CS50C which is the first six weeks of CS50 that used the C programming language.
+This repository stores some of the problem-set solutions, and final projects that I came up with for the courses: CS50AI--an introductory course to Artificial Intelligence, CS50P--an introductory course to Python, and CS50C which is the first six weeks of the CS50 course that used the C programming language.
 
 # List of Assignments
 
@@ -19,7 +19,7 @@ This repository stores all of the folders and files from various Harvard CS50 co
 ### CS50C (First six weeks of main CS50 Course foucusing on C)
 
 1. Mario-More: Creating a visual representation of mario pyramid structures using hashes and for loops.
-2. Speller: A spell checker by implementing a hash table to store a dictionary of words.
+2. Speller: A spell checker that implements a hash table to store a dictionary of words.
 3. Recover: A program that is able to recover deleted JPEG images from a memory card.
 
-Note: Some of these implementations were from a few years back, so some solutions, and problem-sets that were on the original course aren't shown here (I haven't been able to recover/find them). Additionally, some implementations were recently altered for better functionality/structure.
+Note: Some of these implementations were from a few years back, so some solutions, and problem-sets that were on the original course aren't shown here (I haven't been able to recover/find them). Additionally, some implementations were altered from their original for better functionality, and structure.
